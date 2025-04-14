@@ -1,10 +1,7 @@
-<div style="text-align: center; margin: 40px;">
-  <p align="center" style="font-size: 36px;">
-    Hola soy Manuel Ortiz Desarrollador Senior Full Stack 
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-  </p>
-</div>
-
+<p align="center">
+  <strong style="font-size: 36px;">Hola soy Manuel Ortiz Desarrollador Senior Full Stack</strong>
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+</p>
 
 <p align="center">
   <a href="#" target="_blank">
