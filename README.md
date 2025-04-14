@@ -21,6 +21,36 @@
   </a>
 </p>
 
+<img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
+ 
+ <p align="left">My name is Rahul Karda and I'm a Fullstack Developer.
+  
+  I'm from India, living in Bhopal and currently studying Computer Science.
+  
+<!--   I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Engineering. -->
+</p>
+
+<!-- See [my website](https://rahulkarda.netlify.app) for more information! <br> <br>
+You can also find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+website -->
+
+🌱 I’m currently learning React, NextJS
+
+👯 I’m looking to collaborate on different projects
+
+👨‍💻 All of my projects are available at [my website](https://rahulkarda.netlify.app)
+
+📝 I actively post on LinkedIn [![LinkedIn][3.2]][3]
+
+👀 Ask me about React, NextJS, NodeJS, and APIs
+
+📫You can reach me at rahulkarda2002@gmail.com
+
+⚡ Fun fact  - I like Philosophy and Astronomy
+
+<br>
+
+
 <!--
 **maniortiz98/maniortiz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
