@@ -23,9 +23,9 @@
 
 <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
  
- <p align="left">My name is Rahul Karda and I'm a Fullstack Developer.
+ <p align="left">Desarrollador Front-End y Back-End con 5 años de experiencia en desarrollo de software. Tengo una Licenciatura en Ciencias de la Informática.
   
-  I'm from India, living in Bhopal and currently studying Computer Science.
+  Mi experiencia abarca tecnologías Front-End y Back-End, liderazgo de equipos y colaboración entre áreas, principalmente en el sector financiero. Me apasiona crear soluciones eficientes y amigables para el usuario, optimizando procesos y mejorando la experiencia digital.
   
 <!--   I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Engineering. -->
 </p>
