@@ -2,6 +2,7 @@
   <strong style="font-size: 36px;">Hola soy Manuel Ortiz Desarrollador Senior Full Stack</strong>
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 </p>
+<hr>
 
 <p align="center">
   <a href="#" target="_blank">
