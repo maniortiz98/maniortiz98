@@ -267,6 +267,15 @@ website -->
 - Optimización SEO – Mejora en posicionamiento web
 
 - Adobe XD / Figma – Diseño y prototipado de interfaces
+
+
+<a href="https://github.com/rahulkarda/rahulkarda">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkarda&theme=radical&hide_border=true)](https://github.com/rahulkarda" alt="Rahul's GitHub Stats Graph"/>
+</a>
+
+
+
+
 <!--
 **maniortiz98/maniortiz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
