@@ -196,6 +196,22 @@ website -->
     &nbsp;&nbsp;&nbsp;&nbsp;
   
 </div>
+
+
+
+🧠 Lenguajes de Programación
+
+-  C# – Desarrollo backend en .NET
+
+-  TypeScript – Desarrollo frontend con Angular, React y Next.js
+
+-  JavaScript (ES6) – Desarrollo frontend y optimización de interfaces
+
+- T-SQL – Consultas y manipulación de bases de datos SQL
+
+-  SQL y NoSQL – Manejo de bases de datos (PostgreSQL, MySQL, MongoDB, Firebase)
+
+- CSS3 / SASS / Tailwind / Bootstrap – Estilos y diseño de interfaces
 <!--
 **maniortiz98/maniortiz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
