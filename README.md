@@ -189,6 +189,11 @@ website -->
     width="60px"
     alt="VS Code">
     &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://1000marcas.net/wp-content/uploads/2025/03/Amazon-Web-Services-Emblem.png"
+    width="60px"
+    alt="Amazon">
+    &nbsp;&nbsp;&nbsp;&nbsp;
   
 </div>
 <!--
