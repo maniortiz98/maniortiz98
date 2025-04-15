@@ -229,6 +229,44 @@ website -->
 - Mulesoft Design Center – Integración de APIs
 
 - WordPress / Shopify / WooCommerce – Desarrollo y gestión de comercio electrónico
+
+
+
+🌐 Desarrollo y Consumo de APIs
+
+- REST API con .NET 3.1+ – Creación de servicios web REST
+
+- APIs (REST, GraphQL, gRPC, SOAP) – Consumo e integración de servicios
+
+- API Analytics – Monitoreo y seguridad de APIs (Mulesoft API Gateway, AWS API Gateway, Google Apigee)
+
+- OAuth, OpenID – Autenticación y autorización segura
+
+- Rate limiting, auditoría – Seguridad y control de acceso en APIs
+
+
+
+🔧 Herramientas y DevOps
+
+- Git / GitHub / GitLab / Bitbucket – Control de versiones
+
+- Docker / Kubernetes – Contenedores y orquestación de servicios
+
+- Salesforce – CRM y gestión de clientes
+
+- Jira / Trello – Gestión de proyectos ágiles
+
+- Desarrollo de procesos DevOps – Versionamiento y despliegue en la nube
+
+  
+
+🎨 Diseño y UX/UI
+
+- Responsive Design y Mobile UI – Desarrollo adaptable a dispositivos móviles
+
+- Optimización SEO – Mejora en posicionamiento web
+
+- Adobe XD / Figma – Diseño y prototipado de interfaces
 <!--
 **maniortiz98/maniortiz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
