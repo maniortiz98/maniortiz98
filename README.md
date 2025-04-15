@@ -99,7 +99,7 @@ website -->
     alt="Ionic">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://logodix.com/logo/699172.png](https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"
+    src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"
     width="40px"
     alt="Material">
     &nbsp;&nbsp;&nbsp;
