@@ -34,19 +34,19 @@
 You can also find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 website -->
 
-🌱 I’m currently learning React, NextJS
+🌱 ...
 
-👯 I’m looking to collaborate on different projects
+👯 ...
 
-👨‍💻 All of my projects are available at [my website](https://rahulkarda.netlify.app)
+👨‍💻 ... [my website](https://rahulkarda.netlify.app)
 
-📝 I actively post on LinkedIn [![LinkedIn][3.2]][3]
+📝  ... [![LinkedIn][3.2]][3]
 
-👀 Ask me about React, NextJS, NodeJS, and APIs
+👀  ...
 
-📫You can reach me at rahulkarda2002@gmail.com
+📫  ...
 
-⚡ Fun fact  - I like Philosophy and Astronomy
+⚡  ...
 
 <br>
 
