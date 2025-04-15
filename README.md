@@ -35,6 +35,9 @@ You can also find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 website -->
 
 <br>
+<br>
+<br>
+<br>
 <div align="center" width="100">
   <h3>Languages</h3>
   <img
