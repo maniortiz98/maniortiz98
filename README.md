@@ -119,9 +119,9 @@ website -->
     alt="React">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"
     width="60px"
-    alt="Bootstrap">
+    alt="vuejs">
     &nbsp;&nbsp;&nbsp;&nbsp;
   
   <!-- Storages -->
