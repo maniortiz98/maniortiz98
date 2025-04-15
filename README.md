@@ -84,24 +84,24 @@ website -->
 
 <h3>Frameworks</h3>
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
+    src="https://vabadus.es/images/articulos/64b524021adc5990918944.png"
     width="40px"
-    alt="Spring (Spring-boot)">
+    alt="Tailwind CSS">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"
     width="0px"
-    alt="Apache Kafka">
+    alt="bootstrap">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-plain-wordmark.svg"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/2560px-Ionic_Logo.svg.png"
     width="40px"
-    alt="Gradle">
+    alt="Ionic">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://logodix.com/logo/699172.png"
+    src="[https://logodix.com/logo/699172.png](https://cdn.worldvectorlogo.com/logos/material-ui-1.svg)"
     width="40px"
-    alt="Maven">
+    alt="Material">
     &nbsp;&nbsp;&nbsp;
 
   </br>
