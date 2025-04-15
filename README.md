@@ -52,7 +52,7 @@ website -->
 <div align="center" width="100">
   <h3>Languages</h3>
   <img
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png"
     width="40px"
     alt="Groovy">
     &nbsp;&nbsp;&nbsp;&nbsp;
