@@ -49,7 +49,7 @@ website -->
 ⚡  ...
 
 <br>
-
+<div align="center" width="100">
   <h3>Languages</h3>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
@@ -86,7 +86,7 @@ website -->
     width="60px"
     alt="sass">
     &nbsp;&nbsp;&nbsp;&nbsp;
-
+</div>
 <!--
 **maniortiz98/maniortiz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
