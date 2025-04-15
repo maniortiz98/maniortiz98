@@ -53,54 +53,54 @@ website -->
   <h3>Languages</h3>
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png"
-    width="40px"
+    width="60px"
     alt="Groovy">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-    width="40px"
+    width="60px"
     alt="Typescript">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-    width="40px"
+    width="60px"
     alt="Javascript">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
-    width="40px"
+    width="60px"
     alt="HTML5">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
-    width="40px"
+    width="60px"
     alt="css3">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
-    width="40px"
+    width="60px"
     alt="sass">
     &nbsp;&nbsp;&nbsp;&nbsp;
 
 <h3>Frameworks</h3>
   <img
     src="https://vabadus.es/images/articulos/64b524021adc5990918944.png"
-    width="40px"
+    width="60px"
     alt="Tailwind CSS">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"
-    width="0px"
+    width="60px"
     alt="bootstrap">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/2560px-Ionic_Logo.svg.png"
-    width="40px"
+    width="60px"
     alt="Ionic">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"
-    width="40px"
+    width="60px"
     alt="Material">
     &nbsp;&nbsp;&nbsp;
 
