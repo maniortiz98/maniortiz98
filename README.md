@@ -84,7 +84,7 @@ website -->
 
 <h3>Frameworks</h3>
   <img
-    src="https://vabadus.es/images/articulos/64b524021adc5990918944.png"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/330px-Tailwind_CSS_Logo.svg.png"
     width="60px"
     alt="Tailwind CSS">
     &nbsp;&nbsp;&nbsp;&nbsp;
