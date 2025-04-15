@@ -34,20 +34,6 @@
 You can also find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 website -->
 
-🌱 ...
-
-👯 ...
-
-👨‍💻 ... [my website](https://rahulkarda.netlify.app)
-
-📝  ... [![LinkedIn][3.2]][3]
-
-👀  ...
-
-📫  ...
-
-⚡  ...
-
 <br>
 <div align="center" width="100">
   <h3>Languages</h3>
