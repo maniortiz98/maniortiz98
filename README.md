@@ -268,11 +268,20 @@ website -->
 
 - Adobe XD / Figma – Diseño y prototipado de interfaces
 
+  
+<br>
+<br>
+<br>
+<br>
 
-<a href="https://github.com/rahulkarda/rahulkarda">
+<a href="https://github.com/maniortiz98/maniortiz98">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maniortiz98&theme=radical&hide_border=true)](https://github.com/maniortiz98" alt="Rahul's GitHub Stats Graph"/>
 </a>
 
+<a href="https://github.com/maniortiz98/rahmaniortiz98ulkarda">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maniortiz98&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=maniortiz98" alt="GitHub Stats" />
+</a>
+<br><br>
 
 
 
