@@ -270,7 +270,7 @@ website -->
 
 
 <a href="https://github.com/rahulkarda/rahulkarda">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkarda&theme=radical&hide_border=true)](https://github.com/rahulkarda" alt="Rahul's GitHub Stats Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maniortiz98&theme=radical&hide_border=true)](https://github.com/maniortiz98" alt="Rahul's GitHub Stats Graph"/>
 </a>
 
 
