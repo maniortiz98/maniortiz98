@@ -143,9 +143,9 @@ website -->
   </br>
   <h3>Storages</h3>
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+    src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg"
     width="40px"
-    alt="Oracle">
+    alt="Mongo">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
