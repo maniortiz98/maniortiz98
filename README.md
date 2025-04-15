@@ -212,6 +212,23 @@ website -->
 -  SQL y NoSQL – Manejo de bases de datos (PostgreSQL, MySQL, MongoDB, Firebase)
 
 - CSS3 / SASS / Tailwind / Bootstrap – Estilos y diseño de interfaces
+
+
+⚙️ Frameworks y Librerías
+
+- .NET 9 / ASP.NET Core – Desarrollo de aplicaciones web y backend
+
+- Angular 19 – Desarrollo frontend estructurado
+
+- React / Next.js / Vue.js – Desarrollo frontend moderno y dinámico
+
+- Ionic Framework – Desarrollo de aplicaciones móviles híbridas
+
+- Material UI – Componentes de diseño para React
+
+- Mulesoft Design Center – Integración de APIs
+
+- WordPress / Shopify / WooCommerce – Desarrollo y gestión de comercio electrónico
 <!--
 **maniortiz98/maniortiz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
